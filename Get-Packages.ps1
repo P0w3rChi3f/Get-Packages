@@ -145,6 +145,7 @@ Get-InstallPackages
 
 1) Created template creates 2 headders
 2) Check to see if there is internet connection
+3) Url to search: https://www.myget.org/F/fireeye/api/v2
 
 
 
